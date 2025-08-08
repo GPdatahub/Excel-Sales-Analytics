@@ -2,13 +2,14 @@
 
 ## 📊 Sales report
 
-### **🧾Project Overview:**
+**🧾Project Overview:**
 
 - These project delivers two key sales performance reports, developed using **Power Query** and **Pivot Tables** for analysis:
   
-  **1. ** Create a _[Customer Net Sales Performance Report] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) **  
-  **2. ** Conduct a comprehensive comparison between _[Market Performance vs and Sales Targets] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)**
-  These report Determines effective customer discounts, facilitate negotiations with consumers, identify growth and underperformance trends. These reports are fully filterable   by **Region**, **Market**, and **Division** to support granular analysis. 
+  **1.** Create a _[Customer Net Sales Performance Report] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
+  **2.** Conduct a comprehensive comparison between _[Market Performance vs and Sales Targets] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+
+  These reports Determines effective customer discounts, facilitate negotiations with consumers, identify growth and underperformance trends. These reports are fully filterable   by **Region**, **Market**, and **Division** to support granular analysis. 
 
 ---  
 
@@ -49,7 +50,7 @@
 
 - These project involves the creation of a comprehensive Profit & Loss (P&L) analysis using Excel. The analysis is divided into three detailed reports—
 
-  **1.** Create Profit and Loss report by _[Fiscal Year(https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) , and by _[Months(https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+  **1.** Create Profit and Loss report by _[Fiscal Year] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) , and by _[Months] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
   **2.** Create Profit and Loss report by _[Markets] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
   These reports allows stakeholders to view financial performance across different dimensions and time frames. The final output includes comparative sales analysis across   fiscal years to evaluate year-on-year performance.
