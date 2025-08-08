@@ -6,8 +6,8 @@
 
 - These project delivers two key sales performance reports, developed using **Power Query** and **Pivot Tables** for analysis:
   
-  **1. ** Create a _[Customer Net Sales Performance Report] () **  
-  **2. ** Conduct a comprehensive comparison between _[Market Performance vs and Sales Targets]**
+  **1. ** Create a _[Customer Net Sales Performance Report] (https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) **  
+  **2. ** Conduct a comprehensive comparison between _[Market Performance vs and Sales Targets]()**
   These report Determines effective customer discounts, facilitate negotiations with consumers, identify growth and underperformance trends. These reports are fully filterable   by **Region**, **Market**, and **Division** to support granular analysis. 
 
 ---  
