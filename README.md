@@ -50,6 +50,7 @@
 - These project involves the creation of a comprehensive Profit & Loss (P&L) analysis using Excel. The analysis is divided into three detailed reports—
 
   **1.** Create Profit and Loss report by _[Fiscal Year(https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) , and by _[Months(https://github.com/GPdatahub/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+
   **2.** Create Profit and Loss report by _[Markets] 
   These reports allows stakeholders to view financial performance across different dimensions and time frames. The final output includes comparative sales analysis across   fiscal years to evaluate year-on-year performance.
 
